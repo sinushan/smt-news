@@ -112,7 +112,7 @@ Sri Lanka
             <p>World leaders have gathered to discuss the future of climate change...</p>
         </div>
         <div class="news-item">
-            <h3>National Football League: New Record</h3>
+            <h3>இன்று இறுதி போட்டியில் மோதுகிறது.. இந்தியா மற்றும் மேற்கிந்திய தீவுகள் அணிகள்</h3>
             <p>The National Football League saw a new record in touchdowns...</p>
         </div>
     </section>
