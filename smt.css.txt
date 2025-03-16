@@ -121,7 +121,7 @@ Sri Lanka
     <section id="local-news" class="news-section">
         <h2>Local News</h2>
         <div class="news-item">
-            <h3>Local Event: Community Gathering</h3>
+            <h3>📢 Tamil News: முக்கிய செய்தி</h3>
             <p>This community gathering aims to bring together local citizens...</p>
         </div>
         <div class="news-item">
